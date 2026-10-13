@@ -1,0 +1,13 @@
+# Estado e arquivos temporários do GNU Octave
+octave-workspace
+*.asv
+*.swp
+*.swo
+
+# Arquivos de sistema e editores
+.DS_Store
+.vscode/
+.idea/
+
+# Saídas temporárias
+*.log
